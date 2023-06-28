@@ -1,0 +1,53 @@
+#exercise-1{
+    margin-bottom: 50px;
+}
+
+.value{
+    text-align: center;
+}
+.button-list{
+    display: flex;
+
+}
+.button-list li{
+    margin: auto;
+    list-style: none;
+    border: 1px solid rgba(0,0,0,0.3);
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 25%;
+}
+
+#exercise-2{
+    background-color: aqua;
+    padding-bottom: 20px;
+}
+.app {
+    margin:auto;
+    background-color: aquamarine;
+    width: 50%
+}
+.app h1, .form{
+    text-align: center;
+}
+.inputEle{
+    width: 500px
+}
+.book-item{
+    margin-left: 75px;
+}
+
+.user-info{
+    margin-bottom: 20px;
+}
+
+/* Redux-thunk exercise */
+.hide{
+    display: none;
+}
+.loading{
+    margin-left: 20px;
+}
+.error{
+    color: #f00;
+}
